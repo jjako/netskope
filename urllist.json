@@ -1,15 +1,7 @@
 [
  {
   "sector": "Business", 
-  "url": "*.netskope.com", 
-  "host": "www.netskope.com", 
-  "country_code": "US", 
-  "tld": "com", 
-  "country_name": "United States"
- }, 
- {
-  "sector": "Business", 
-  "url": "*.netskope.com", 
+  "url": "academy.netskope.com", 
   "host": "academy.netskope.com", 
   "country_code": "US", 
   "tld": "com", 
@@ -17,7 +9,7 @@
  },
  {
   "sector": "Business", 
-  "url": "*.netskope.com", 
+  "url": "training.netskope.com", 
   "host": "training.netskope.com", 
   "country_code": "US", 
   "tld": "com", 
